@@ -1,10 +1,14 @@
 
 
-Exploit Tool
-made in : yenyangmjaze
-link : https://t.me/+Oiy2q9Y5Zfo0NTg0  
-telegarm : VIP
-Date: 2025-01-11
+##Exploit Tool
+
+##made in : yenyangmjaze
+
+##link : https://t.me/+Oiy2q9Y5Zfo0NTg0 
+
+##telegarm : VIP
+
+##Date: 2025-01-11
 
 	
 ## Install Python3
