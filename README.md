@@ -15,7 +15,6 @@
         apt-get install git
         pip3 install requests
         pip3 install colorama
-        sudo apt update
         apt-get install python3
 
 ## Quick start
